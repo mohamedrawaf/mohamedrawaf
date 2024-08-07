@@ -78,4 +78,4 @@ For more information and to check my full portfolio, please visit my [Upwork pro
 
 Whatever you want to create, fix, or improve on your website, just contact me, and you will never be disappointed.
 
-https://camo.githubusercontent.com/710ed7e382bf0822948af4660bab594c24723b1d10c0b49bd47daf33b2a65f54/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966
+<img src="https://camo.githubusercontent.com/710ed7e382bf0822948af4660bab594c24723b1d10c0b49bd47daf33b2a65f54/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966">
