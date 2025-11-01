@@ -47,13 +47,12 @@ Here are some reviews from my satisfied clients:
 - "How can I say this: Abdel is AMAZING! He is respectful, super skilled and ALWAYS available within minutes. He is truly the best!"
 - "Abdel found a solution in short order and completed the project under budget and before I could even establish a time frame. He's highly knowledgeable and a great communicator. I will definitely hire Abdel for future projects!"
 - "Excellent freelancer. Very knowledgeable for this project and took initiative to suggest and implement improvements for the project. He is extremely accurate - which actually pleasantly surprised me as the project involved a large enough quantity of data to transform and all was done correct 99.9% accurate. That is just a great feeling. Beyond that he is a great communicator, delivers on schedule, fairly priced, and is quite professional. Highly recommended."
-- "After years on oDesk / Upwork its refreshing to come across a contractor like Abdel (Budi). He is personable, friendly, organized and did the work as promised. He incorporated several rounds of reviews and changes and even provided training. I thought he went above and beyond what was expected or required of him."
+- "After years on oDesk / Upwork its refreshing to come across a contractor like Abdel. He is personable, friendly, organized and did the work as promised. He incorporated several rounds of reviews and changes and even provided training. I thought he went above and beyond what was expected or required of him."
 
 ## Portfolio
 
 Here are some examples of my work:
 
-- [Trainee.fi](https://trainee.fi/) - PSD to WordPress
 - [Nitecore](https://www.nitecore.com/) - WooCommerce
 - [Creating a Family](https://creatingafamily.org) - Sensei LMS, Directory
 - [SkillForge](http://skillforge.com) - Custom LMS
@@ -63,8 +62,6 @@ Here are some examples of my work:
 - [SurgBay](https://www.surgbay.com/) - Auctions
 - [Dokkaner](https://dokkaner.com/) - Elementor, WooCommerce, Store, Multilingual
 - [TME Worldwide](https://www.tmeworldwide.com/) - Avada, Multilingual
-- [Ehata](https://ehata.com.sa/) - Visual Composer, Multilingual
-- [John Hetherington Consulting](http://johnhetheringtonconsulting.com/) - Visual Composer
 - [Think Digital](http://thinkdigital.travel/) - Tickets
 
 I have also developed custom plugins, including:
