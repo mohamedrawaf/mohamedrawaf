@@ -56,13 +56,42 @@ Here are some examples of my work:
 - [Nitecore](https://www.nitecore.com/) - WooCommerce
 - [Creating a Family](https://creatingafamily.org) - Sensei LMS, Directory
 - [SkillForge](http://skillforge.com) - Custom LMS
-- [Therapist NDC](https://therapistndc.org/) - Elementor, Multisite, LearnDash LMS
-- [Police Records Management](https://policerecordsmanagement.com/) - Divi, WooCommerce, GravityForms
 - [Club Sports](https://clubsports.com/) - Divi
 - [SurgBay](https://www.surgbay.com/) - Auctions
 - [Dokkaner](https://dokkaner.com/) - Elementor, WooCommerce, Store, Multilingual
 - [TME Worldwide](https://www.tmeworldwide.com/) - Avada, Multilingual
 - [Think Digital](http://thinkdigital.travel/) - Tickets
+- [SGM Training Systems](https://sgmnow.com/) - Finalized and customized LearnDash LMS with WooCommerce + Uncanny, worked on group enrollments, seat allocations, and user features.  
+**Technologies:** LearnDash, WooCommerce, Uncanny groups
+
+- [AGDLab](https://agdlab.eu/) - WooCommerce, WooCommerce Subscriptions  
+**Technologies:** WooCommerce, WooCommerce Subscriptions
+
+- [Therapist Neurodiversity Collective](https://therapistndc.org/) - Recurring site maintenance, course setup (LearnDash), Elementor, 2FA, checkout, and UX improvements.  
+**Technologies:** LearnDash, Elementor, WooCommerce, 2FA, Paid Memberships Pro
+
+- [NationwideShelving](https://www.mh-usa.com/) - Troubleshot major WooCommerce cart/checkout/shipping, performance issues, SEO fixes, and plugin enhancements  
+**Technologies:** WooCommerce
+
+- [Police Records Management](https://policerecordsmanagement.com/) - Utilized WooCommerce, admin/reporting plugins, custom attendee export, and cart  
+**Technologies:** WooCommerce
+
+- [Warbonnet Outdoors](https://www.warbonnetoutdoors.com/) - Site bug fixing
+
+- [TuneStock](https://tunestock.com/) - Fixed website pop-up issues, enhanced user profile (new tabs, conditional displays), estimations
+
+- [Going Away Gifts](https://goingawaygifts.com/) - Site speed optimization: plugin audit, performance tuning, cart and shipping fixes, ongoing improvements
+
+- [Expand Media](https://shopexpand.com/) - ERP, API, and WooCommerce–B2B integration; syncing orders, payment, stock, shipping, pricing, and tax logic  
+**Technologies:** ERP, API, WooCommerce (B2B)
+
+- [SMS Studios](https://www.smsstudios.com/) - WooCommerce add Custom Fields to Product Variations and display on front end and emails  
+**Technologies:** WooCommerce
+
+- [HAPCO Philadelphia](https://hapcophiladelphia.com) - Integrated WooCommerce Subscriptions to enable monthly and annual memberships with auto-renewals, including handling failed payments, membership filters, and secured card updates  
+**Technologies:** WooCommerce Subscriptions
+
+- [Huron Group](https://www.thehurongroup.com) - Site bug fixing
 
 I have also developed custom plugins, including:
 - Pay.com Gravity addon
