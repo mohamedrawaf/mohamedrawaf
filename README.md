@@ -53,21 +53,22 @@ Here are some reviews from my satisfied clients:
 
 Here are some examples of my work:
 
-- [Nitecore](https://www.nitecore.com/) - WooCommerce
+- [https://manzelco.com/](Manzelco) - Elementor,Figma design to Wordpress
+- [Think Digital](http://thinkdigital.travel/) - Tickets
 - [Creating a Family](https://creatingafamily.org) - Sensei LMS, Directory
 - [SkillForge](http://skillforge.com) - Custom LMS
 - [Club Sports](https://clubsports.com/) - Divi
 - [SurgBay](https://www.surgbay.com/) - Auctions
 - [Dokkaner](https://dokkaner.com/) - Elementor, WooCommerce, Store, Multilingual
 - [TME Worldwide](https://www.tmeworldwide.com/) - Avada, Multilingual
-- [Think Digital](http://thinkdigital.travel/) - Tickets
+- [Interactive Map](https://wordpress-1366338-5200991.cloudwaysapps.com/index_en.php) - Interactive Map,Mapbox
 - [SGM Training Systems](https://sgmnow.com/) - Finalized and customized LearnDash LMS with WooCommerce + Uncanny, worked on group enrollments, seat allocations, and user features.  
 **Technologies:** LearnDash, WooCommerce, Uncanny groups
 
 - [AGDLab](https://agdlab.eu/) - WooCommerce, WooCommerce Subscriptions  
 **Technologies:** WooCommerce, WooCommerce Subscriptions
 
-- [Therapist Neurodiversity Collective](https://therapistndc.org/) - Recurring site maintenance, course setup (LearnDash), Elementor, 2FA, checkout, and UX improvements.  
+- [Therapist Neurodiversity Collective](https://therapistndc.org/) - Recurring site maintenance, course setup (LearnDash),MS, Elementor, 2FA, checkout, and UX improvements.  
 **Technologies:** LearnDash, Elementor, WooCommerce, 2FA, Paid Memberships Pro
 
 - [NationwideShelving](https://www.mh-usa.com/) - Troubleshot major WooCommerce cart/checkout/shipping, performance issues, SEO fixes, and plugin enhancements  
@@ -97,6 +98,7 @@ I have also developed custom plugins, including:
 - Pay.com Gravity addon
 - Glossary plugin
 - Create Elementor pages and transfer to other sites using API
+- SAGE Connect for Woocomemrce
 
 ## Contact
 
